@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yifan Wang"
+title: "About Me"
 excerpt: "Yifan Wang"
 author_profile: true
 redirect_from: 
