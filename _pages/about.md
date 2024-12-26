@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Yifan (王亦凡, in Chinese). I am now a forth year PhD student in [THUIR](http://www.thuir.cn/) , Department of Computer Science and Technology, Tsinghua University. My supervisors are Prof. Shaoping Ma and [Prof. Min Zhang](http://www.thuir.cn/group/~mzhang/). My major research interests are about trustworthy user modeling, debiased recommendation, fairness in recommendation, and etc.
+My name is Yifan (王亦凡, in Chinese). I am now a forth year PhD student in [THUIR](http://www.thuir.cn/), Department of Computer Science and Technology, Tsinghua University. My supervisors are Prof. Shaoping Ma and [Prof. Min Zhang](http://www.thuir.cn/group/~mzhang/). My major research interests are about trustworthy user modeling, debiased recommendation, fair recommendation, and etc.
 
 Publications
 ======
